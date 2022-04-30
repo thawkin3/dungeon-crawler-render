@@ -1,0 +1,12 @@
+.InfoKey {
+  margin: 40px auto;
+}
+
+.blockDescription {
+  display: inline-block;
+  margin: 8px;
+}
+
+.blockDescription span {
+  margin-left: 4px;
+}

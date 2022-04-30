@@ -1,0 +1,8 @@
+.statContainer {
+  display: inline-block;
+  margin: auto 20px;
+}
+
+.statTitle {
+  font-weight: bold;
+}

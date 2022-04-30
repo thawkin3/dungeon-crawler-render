@@ -1,0 +1,13 @@
+.PlayerWon {
+  width: 100%;
+  max-width: 600px;
+  margin: auto;
+}
+
+.PlayerWon .btn {
+  margin: 40px auto;
+}
+
+.PlayerWon p {
+  margin-top: 30px;
+}

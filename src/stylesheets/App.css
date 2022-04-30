@@ -1,0 +1,18 @@
+.App {
+  background: #020202;
+  text-align: center;
+}
+
+.App-header {
+  background-color: #020202;
+  padding: 20px 10px;
+  color: #f3f3f3;
+}
+
+.App-footer {
+  background-color: #020202;
+  padding: 20px 0px;
+  color: #f3f3f3;
+  text-align: right;
+  font-style: italic;
+}

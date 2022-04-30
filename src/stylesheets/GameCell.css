@@ -1,0 +1,42 @@
+.GameCell {
+  width: 12px;
+  height: 12px;
+  padding: 0px;
+  margin: 0px;
+  display: inline-block;
+  font-size: 0px;
+  line-height: 0px;
+  background: #929292;
+}
+
+.GameCell.player {
+  background: #0000ff;
+}
+
+.GameCell.open {
+  background: #c2c2c2;
+}
+
+.GameCell.open.alt {
+  background: #e3e3e3;
+}
+
+.GameCell.wall {
+  background: #929292;
+}
+
+.GameCell.food {
+  background: #008000;
+}
+
+.GameCell.weapon {
+  background: #812f80;
+}
+
+.GameCell.enemy {
+  background: #d9534f;
+}
+
+.GameCell.boss {
+  background: #a78c00;
+}

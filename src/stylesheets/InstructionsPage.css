@@ -1,0 +1,13 @@
+.InstructionsPage {
+  width: 100%;
+  max-width: 600px;
+  margin: auto;
+}
+
+.InstructionsPage .btn {
+  margin: 40px auto;
+}
+
+.InstructionsPage p {
+  margin-top: 30px;
+}
