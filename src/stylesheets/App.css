@@ -7,6 +7,8 @@
   background-color: #020202;
   padding: 20px 10px;
   color: #f3f3f3;
+  text-transform: uppercase;
+  letter-spacing: 4px;
 }
 
 .App-footer {
